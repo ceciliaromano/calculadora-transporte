@@ -1,7 +1,4 @@
-import tkinter as tk
 from tkinter import *
-import numpy
-import time
 
 root = Tk()
 root.title("Transport price calculator")
